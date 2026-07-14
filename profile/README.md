@@ -124,8 +124,8 @@ Analyze build data, inspect project structure, and understand Unity build workfl
 
 <div>
 
-<a href="https://github.com/Afterix-Hub/BuildLens">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Tools-Studio-Packages/buildlens-docs">
+<img src="https://img.shields.io/badge/Documentation-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
