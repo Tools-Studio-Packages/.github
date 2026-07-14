@@ -160,10 +160,6 @@ Manage import policies, detect asset drift, simulate changes, and maintain consi
 <img src="https://img.shields.io/badge/Documentation-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Afterix-Hub/Conduit">
-<img src="https://img.shields.io/badge/Package%20Repository-222222?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
