@@ -170,7 +170,7 @@ Tools Studio Packages is part of the Afterix ecosystem.
 
 <div align="center">
 
-<a href="https://github.com/afterixhq">
+<a href="https://github.com/afterix-hub">
 <img src="https://img.shields.io/badge/Afterix-Explore%20Projects-222222?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
