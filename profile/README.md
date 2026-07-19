@@ -52,7 +52,7 @@ Explore Tools Studio products, Unity assets, and development resources available
 
 <div align="center">
 
-<a href="https://github.com/Tools-Studio-Packages">
+<a href="https://github.com/tools-studio">
 <img src="https://img.shields.io/badge/Packages-Explore%20Repositories-222222?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -124,7 +124,7 @@ Analyze build data, inspect project structure, and understand Unity build workfl
 
 <div>
 
-<a href="https://github.com/Tools-Studio-Packages/buildlens-docs">
+<a href="https://github.com/tools-studio/buildlens-docs">
 <img src="https://img.shields.io/badge/Documentation-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
