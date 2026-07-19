@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Tools-Studio-Packages.png" width="120"/>
+<img src="https://github.com/tools-studio.png" width="120"/>
 
-# Tools Studio Packages
+# Tools Studio
 
 Unity packages, editor tools, and workflow solutions for creators and development teams.
 
@@ -12,7 +12,7 @@ Unity packages, editor tools, and workflow solutions for creators and developmen
 
 # About
 
-Tools Studio Packages is the official package organization for Tools Studio products.
+Tools Studio is the official organization for Tools Studio products.
 
 This organization hosts Unity packages, documentation repositories, and development resources used across Tools Studio tools and workflows.
 
